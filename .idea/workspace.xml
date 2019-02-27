@@ -19,7 +19,21 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="44">
+                <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/test/java/tensquare/rabbit/productTest.java" />
         <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/pom.xml" />
         <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/test/java/tensquare/rabbit/server/RabbitServerTest.java" />
         <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/server/RabbitServer.java" />
@@ -100,6 +113,7 @@
         <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Sort/InseertionSort.java" />
         <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Sort/BubblingSort.java" />
         <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Sort/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -1294,7 +1308,7 @@
       <workItem from="1551161122932" duration="3282000" />
       <workItem from="1551187130652" duration="1410000" />
       <workItem from="1551235002395" duration="2673000" />
-      <workItem from="1551253050652" duration="113000" />
+      <workItem from="1551253050652" duration="921000" />
     </task>
     <servers />
   </component>
@@ -1331,7 +1345,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178631000" />
+    <option name="totallyTimeSpent" value="179439000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1411,13 +1425,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tensquare_search/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tensquare_search/src/main/java/com/tensquare/search/pojo/Article.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1703,6 +1710,17 @@
             <element signature="e#393#394#0" expanded="false" />
             <element signature="e#449#450#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
