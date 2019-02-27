@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="53e2516b-8a67-475b-80d6-2e62f4669108" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/listener/MailListener.java" afterPath="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/listener/MailListener.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,15 +21,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="44">
-                <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="Customer2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/customer/Customer2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MailListener.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/listener/MailListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -63,11 +71,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/pom.xml" />
         <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/test/java/tensquare/rabbit/server/RabbitServerTest.java" />
         <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/server/RabbitServer.java" />
         <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/listener/MailListener.java" />
         <option value="$PROJECT_DIR$/tensquare_search/pom.xml" />
         <option value="$PROJECT_DIR$/tensquare_search/src/main/java/com/tensquare/search/RecruitApplication.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -114,6 +120,8 @@
         <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Sort/BubblingSort.java" />
         <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Sort/InsertionSort.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/customer/Customer2.java" />
+        <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/listener/MailListener.java" />
       </list>
     </option>
   </component>
@@ -642,14 +650,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1308,7 +1308,7 @@
       <workItem from="1551161122932" duration="3282000" />
       <workItem from="1551187130652" duration="1410000" />
       <workItem from="1551235002395" duration="2673000" />
-      <workItem from="1551253050652" duration="921000" />
+      <workItem from="1551253050652" duration="3291000" />
     </task>
     <servers />
   </component>
@@ -1345,7 +1345,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="179439000" />
+    <option name="totallyTimeSpent" value="181809000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1358,6 +1358,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1380,7 +1381,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47790506" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39770868" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39770868" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27231467" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
@@ -1583,13 +1584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/listener/MailListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tensquare_rabbitmqdemo/src/test/java/tensquare/rabbit/server/RabbitServerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1608,13 +1602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
           <caret line="41" column="41" lean-forward="true" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/customer/Customer2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1721,6 +1708,22 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/customer/Customer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/listener/MailListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="16" column="3" lean-forward="false" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
