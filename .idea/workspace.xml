@@ -3,12 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="53e2516b-8a67-475b-80d6-2e62f4669108" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/listener/MailListener.java" afterPath="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/listener/MailListener.java" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/tensquare_rabbitmqdemo/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/tensquare_common/target/" />
     <ignored path="$PROJECT_DIR$/tensquare_base/target/" />
-    <ignored path="$PROJECT_DIR$/tensquare_rabbitmqdemo/target/" />
     <ignored path="$PROJECT_DIR$/tensquare_search/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,45 +19,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Customer2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/customer/Customer2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MailListener.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/listener/MailListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="34" column="32" lean-forward="false" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="JUnit4 Test Class" />
-        <option value="FxmlFile" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>hashmap</find>
-      <find>put</find>
-      <find>getNode</find>
-      <find>MoneyThread</find>
-    </findStrings>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,102 +29,11 @@
       <projects_view />
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/test/java/tensquare/rabbit/productTest.java" />
-        <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/pom.xml" />
-        <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/test/java/tensquare/rabbit/server/RabbitServerTest.java" />
-        <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/server/RabbitServer.java" />
-        <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/listener/MailListener.java" />
-        <option value="$PROJECT_DIR$/tensquare_search/pom.xml" />
-        <option value="$PROJECT_DIR$/tensquare_search/src/main/java/com/tensquare/search/RecruitApplication.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/tensquare_search/src/main/java/com/tensquare/search/pojo/Article.java" />
-        <option value="$PROJECT_DIR$/tensquare_search/src/main/java/com/tensquare/search/dao/ArticleSearchDao.java" />
-        <option value="$PROJECT_DIR$/tensquare_search/src/main/java/com/tensquare/search/service/ArticleSearchService.java" />
-        <option value="$PROJECT_DIR$/tensquare_search/src/main/java/com/tensquare/search/controller/ArticleSearchController.java" />
-        <option value="$PROJECT_DIR$/tensquare_search/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/tensquare/base/MyTask.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/tensquare/base/exp.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/tensquare/base/LeetCode.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/tensquare/base/CallableAndFuture.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/basics/Demo1.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/Solution1.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/replaceSpace.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/Solution2.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/ThreadLocal/ThreadScopeShareData.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/ThreadLocal/ThreadScopeShareData2.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/ThreadLocal/ThreadScopeShareData3.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/Solution3.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/Solution4.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/Solution5.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/Solution6.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/leetCode/Solution1.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/leetCode/Solution2.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/Solution7.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/Solution8.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/basics/Demo2.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Map/HashMap.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/Solution9.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/Solution10.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/synchronizeds/FetchMoney.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/synchronizeds/MyRunable.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Sort.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/Solution11.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Sort/ShellSort.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Sort/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/Solution11.txt" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/Solution12.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/solution12.fxml" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/solution.txt.fxml" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Off/Solution12.txt" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Sort/InseertionSort.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Sort/BubblingSort.java" />
-        <option value="$PROJECT_DIR$/tensquare_base/src/test/java/Sort/InsertionSort.java" />
-      </list>
-    </option>
-  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="tensquare_rabbitmqdemo" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="tensquare_parent" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="tensquare_base" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -187,7 +58,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -430,48 +300,103 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="tensquare_base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensquare_parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensquare_parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensquare_base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensquare_parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensquare_parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensquare_base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensquare_parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensquare_parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensquare_base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensquare_parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensquare_parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tamguo" />
-    <property name="ignore_missing_gitignore" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="tensquare.rabbit.server" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="tensquare.rabbit" />
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="tensquare.rabbit.customer" />
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ideaWorkpaces\tensquare_parent\tensquare_base\src\test\java\Off" />
-      <recent name="D:\ideaWorkpaces\tensquare_parent\tensquare_common\src\main\java\util" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="tensquare.test" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -485,107 +410,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InsertionSort">
-    <configuration default="false" name="FetchMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="synchronizeds.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="synchronizeds.FetchMoney" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="tensquare_base" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="synchronizeds.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="synchronizeds.Demo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="tensquare_base" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="BubblingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Sort.BubblingSort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="tensquare_base" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Sort.SelectionSort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="tensquare_base" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Sort.InsertionSort" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="tensquare_base" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -893,7 +718,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="tensquare_parent" />
+      <module name="tensquare_base" />
       <envs />
       <method />
     </configuration>
@@ -907,28 +732,6 @@
       <option name="workingDirectory" />
       <option name="isAlternativeJrePathEnabled" value="false" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list />
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -995,22 +798,6 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FetchMoney" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Demo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BubblingSort" />
-      <item index="3" class="java.lang.String" itemvalue="Application.SelectionSort" />
-      <item index="4" class="java.lang.String" itemvalue="Application.InsertionSort" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.InsertionSort" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SelectionSort" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BubblingSort" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Demo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FetchMoney" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -1018,102 +805,16 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="53e2516b-8a67-475b-80d6-2e62f4669108" name="Default" comment="" />
-      <created>1547804195960</created>
+      <created>1551355406553</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1547804195960</updated>
-      <workItem from="1547804201201" duration="1138000" />
-      <workItem from="1547876846699" duration="4635000" />
-      <workItem from="1547883393963" duration="6774000" />
-      <workItem from="1547988328840" duration="622000" />
-      <workItem from="1548054978184" duration="3501000" />
-      <workItem from="1548138629879" duration="9307000" />
-      <workItem from="1548207906315" duration="6720000" />
-      <workItem from="1548236969040" duration="4861000" />
-      <workItem from="1548253347180" duration="2270000" />
-      <workItem from="1548293999929" duration="12891000" />
-      <workItem from="1548508229144" duration="807000" />
-      <workItem from="1548658684728" duration="5219000" />
-      <workItem from="1548741071436" duration="3383000" />
-      <workItem from="1548753944271" duration="1937000" />
-      <workItem from="1548762126258" duration="7428000" />
-      <workItem from="1548816944426" duration="12233000" />
-      <workItem from="1548851564816" duration="4250000" />
-      <workItem from="1548905491862" duration="1180000" />
-      <workItem from="1548913686965" duration="8401000" />
-      <workItem from="1549165470870" duration="1105000" />
-      <workItem from="1549177209135" duration="6365000" />
-      <workItem from="1549339211235" duration="1816000" />
-      <workItem from="1549372367187" duration="2162000" />
-      <workItem from="1549451241129" duration="3228000" />
-      <workItem from="1549720632310" duration="2794000" />
-      <workItem from="1550211021542" duration="11134000" />
-      <workItem from="1550303619353" duration="1911000" />
-      <workItem from="1550320073828" duration="2221000" />
-      <workItem from="1550395840596" duration="5173000" />
-      <workItem from="1550476383219" duration="8675000" />
-      <workItem from="1550562168178" duration="608000" />
-      <workItem from="1550579076823" duration="6492000" />
-      <workItem from="1550645087862" duration="130000" />
-      <workItem from="1550654660474" duration="3578000" />
-      <workItem from="1550730702615" duration="54000" />
-      <workItem from="1550740511078" duration="1644000" />
-      <workItem from="1550755248386" duration="3374000" />
-      <workItem from="1550822816912" duration="678000" />
-      <workItem from="1550840149277" duration="1978000" />
-      <workItem from="1550983849763" duration="764000" />
-      <workItem from="1551005622502" duration="3788000" />
-      <workItem from="1551099004876" duration="3924000" />
-      <workItem from="1551161122932" duration="3282000" />
-      <workItem from="1551187130652" duration="1410000" />
-      <workItem from="1551235002395" duration="2673000" />
-      <workItem from="1551253050652" duration="113000" />
+      <updated>1551355406553</updated>
+      <workItem from="1551355413214" duration="16000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="RabbitServerTest_sendSimpleMail - 2019.01.22 at 16h 01m 43s.xml">
-      <configuration name="RabbitServerTest.sendSimpleMail" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RabbitServerTest_sendSimpleMail - 2019.01.22 at 16h 03m 45s.xml">
-      <configuration name="RabbitServerTest.sendSimpleMail" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="productTest - 2019.01.21 at 16h 01m 24s.xml">
-      <configuration name="productTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="productTest - 2019.01.22 at 14h 40m 40s.xml">
-      <configuration name="productTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="productTest_testMessage - 2019.01.21 at 15h 45m 24s.xml">
-      <configuration name="productTest.testMessage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="productTest_testMessage - 2019.01.21 at 15h 48m 11s.xml">
-      <configuration name="productTest.testMessage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="productTest_testMessage - 2019.01.22 at 14h 41m 30s.xml">
-      <configuration name="productTest.testMessage" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="productTest_testMessage3 - 2019.01.22 at 14h 58m 22s.xml">
-      <configuration name="productTest.testMessage3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="productTest_testMessage3 - 2019.01.22 at 14h 59m 25s.xml">
-      <configuration name="productTest.testMessage3" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="productTest_testMessage3 - 2019.01.22 at 15h 00m 45s.xml">
-      <configuration name="productTest.testMessage3" configurationId="JUnit" />
-    </history-entry>
-  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178673000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1139,8 +840,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47790506" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39770868" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27231467" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39770868" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27609682" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1184,13 +885,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tensquare_search/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tensquare_search/src/main/java/com/tensquare/search/pojo/Article.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1328,13 +1022,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tensquare_search/src/main/java/com/tensquare/search/service/ArticleSearchService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1351,9 +1038,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/listener/MailListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="34" column="32" lean-forward="false" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="176">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -1375,14 +1061,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
           <caret line="41" column="41" lean-forward="true" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/customer/Customer2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1474,6 +1152,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_search/src/main/java/com/tensquare/search/service/ArticleSearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1099">
+          <caret line="1162" column="7" lean-forward="true" selection-start-line="1162" selection-start-column="7" selection-end-line="1162" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tensquare_rabbitmqdemo/src/main/java/tensquare/rabbit/customer/Customer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>

@@ -14,6 +14,7 @@ import java.util.Map;
 
 /**
  * Created by lyj on 2019/1/22.
+ * 邮箱监听
  */
 @Component
 @RabbitListener(queues = "mail")
