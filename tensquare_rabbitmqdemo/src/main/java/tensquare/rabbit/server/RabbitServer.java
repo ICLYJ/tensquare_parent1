@@ -15,6 +15,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * Created by lyj on 2019/1/22.
+ * 推送队列
  */
 @Component
 public class RabbitServer {

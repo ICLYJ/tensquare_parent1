@@ -6,6 +6,8 @@ import org.springframework.stereotype.Component;
 
 /**
  * Created by lyj on 2019/1/21.
+ *
+ * 分裂模式
  */
 @Component
 @RabbitListener(queues = "kudingyu")
