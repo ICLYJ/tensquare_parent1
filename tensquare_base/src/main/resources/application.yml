@@ -5,9 +5,20 @@ spring:
     name: tensquare-base
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.1.104:3306/tensquare_base? characterEncoding=utf‐8
+    url: jdbc:mysql://192.168.43.41:3306/tensquare_base? characterEncoding=utf‐8
     username: root
     password: root
   jpa:
     database: mysql
     show-sql: true
+
+#server:
+#  port: 8082
+#spring:
+#  datasource:
+#    driver-class-name: oracle.jdbc.driver.OracleDriver
+#    url: jdbc:oracle:thin:@10.186.121.197:1521:ydcdb
+#    username: ydc
+#    password: ydc$RFV518k
+#    tomcat:
+#      remove-abandoned-timeout: 1200
