@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../mttapp/mttapp.iml" filepath="$PROJECT_DIR$/../mttapp/mttapp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../mttapp/mttapp_base/mttapp_base.iml" filepath="$PROJECT_DIR$/../mttapp/mttapp_base/mttapp_base.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../mttapp/mttapp_common/mttapp_common.iml" filepath="$PROJECT_DIR$/../mttapp/mttapp_common/mttapp_common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../mttapp/mttapp_service/mttapp_service.iml" filepath="$PROJECT_DIR$/../mttapp/mttapp_service/mttapp_service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../renren-admin/renren-admin.iml" filepath="$PROJECT_DIR$/../renren-admin/renren-admin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../renren-api/renren-api.iml" filepath="$PROJECT_DIR$/../renren-api/renren-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../renren-common/renren-common.iml" filepath="$PROJECT_DIR$/../renren-common/renren-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../renren-generator/renren-generator.iml" filepath="$PROJECT_DIR$/../renren-generator/renren-generator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../renren-security.iml" filepath="$PROJECT_DIR$/../renren-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/tensquare_base/tensquare_base.iml" filepath="$PROJECT_DIR$/tensquare_base/tensquare_base.iml" />
       <module fileurl="file://$PROJECT_DIR$/tensquare_common/tensquare_common.iml" filepath="$PROJECT_DIR$/tensquare_common/tensquare_common.iml" />
       <module fileurl="file://$PROJECT_DIR$/tensquare_parent.iml" filepath="$PROJECT_DIR$/tensquare_parent.iml" />
